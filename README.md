@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="twitch-chat-extention.jpg.png" alt="twitch-chat-extention image">
-</p>
+![twitch-chat-extention](https://user-images.githubusercontent.com/23473356/132088935-44a9d3b8-3991-4aa6-9421-a41ac31ad1f5.jpg)  
 
 ## twitch-chat-extention
 
