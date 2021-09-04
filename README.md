@@ -15,4 +15,16 @@
 - Webpack
 - Tmijs
 
+## 🚀 Getting Started
 
+# development
+
+```
+yarn start
+```
+
+# production
+
+```
+yarn start
+```
