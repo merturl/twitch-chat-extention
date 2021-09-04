@@ -33,5 +33,4 @@ yarn start
 
 
 # demo
-https://twitch-chat-cctv.netlify.app
 [](https://merturl-twitch-cctv.netlify.app)
