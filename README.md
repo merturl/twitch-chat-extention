@@ -34,3 +34,6 @@ yarn start
 
 # demo
 [](https://merturl-twitch-cctv.netlify.app)https://merturl-twitch-cctv.netlify.app/
+
+# chrome webstore url
+https://chrome.google.com/webstore/detail/twitch-chat-monitor/mfghggmmodnemmnjijnmgekbpkeldpji?hl=ko&authuser=0
